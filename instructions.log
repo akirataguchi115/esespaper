@@ -1,7 +1,7 @@
 This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.9.27)  27 SEP 2023 07:40
  restricted system commands enabled.
-**conference_101719.tex
-(./conference_101719.tex
+**instructions.tex
+(./instructions.tex
 LaTeX2e <2021-11-15> patch level 1
 Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
 Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
@@ -118,7 +118,9 @@ LaTeX Font Warning: Font shape `TU/ptm/bx/it' undefined
 \IEEEPARstartletwidth=\dimen160
 \c@IEEEbiography=\count197
 \@IEEEtranrubishbin=\box51
-) (/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
@@ -254,111 +256,110 @@ File: l3backend-luatex.def 2022-01-12 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box54
 )
-(./conference_101719.aux)
-\openout1 = conference_101719.aux
+(./instructions.aux)
+\openout1 = instructions.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-0.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+2.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 12.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 12.
 
 -- Lines per column: 56 (exact).
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -383,19 +384,79 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 57.
+
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 23.
+(Font)              using `TU/ptm/bx/n' instead on input line 59.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 27.
+(Font)              using `TU/ptm/bx/n' instead on input line 65.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/m/sc' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 31.
+(Font)              using `TU/ptm/m/n' instead on input line 69.
 
-(./conference_101719.bbl)
+[1
+Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 12
+7.
+LaTeX Font Info:    No file TUpcr.fd. on input line 127.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 127.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 179.
+
+[2]
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 219.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 219.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 221.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 221.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 221.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 221.
+
+<fig1.png, id=20, 82.1469pt x 71.5473pt>
+File: fig1.png Graphic file (type png)
+<use fig1.png>
+Package luatex.def Info: fig1.png  used on input line 232.
+(luatex.def)             Requested size: 82.14668pt x 71.5471pt.
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -407,37 +468,37 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1
-Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-
-
-]
-(./conference_101719.aux)
+[3<./fig1.png>] (./instructions.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 4221 strings out of 477805
- 100000,460012 words of node,token memory allocated
- 489 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 53 glue_spec,
- 6 attribute_list, 1 write nodes
-   avail lists: 2:266,3:158,4:33,5:276,6:36,7:3680,9:235,10:8,11:279
- 24794 multiletter control sequences out of 65536+600000
- 24 fonts using 1918927 bytes
- 55i,8n,59p,256b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texm
+ 4316 strings out of 477805
+ 156265,460012 words of node,token memory allocated
+ 513 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 3 glue, 4 kern, 1 glyph, 9 attribute, 54 glue_spec,
+ 9 attribute_list, 1 write nodes
+   avail lists: 2:760,3:270,4:57,5:725,6:73,7:14424,8:7,9:994,10:19,11:952
+ 24874 multiletter control sequences out of 65536+600000
+ 80 fonts using 5535671 bytes
+ 55i,11n,59p,588b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman7-regular.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype
 /public/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmro
-man12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.o
-tf>
-Output written on conference_101719.pdf (1 page, 25019 bytes).
+man12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.ot
+f></usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/te
+xmf/fonts/opentype/public/lm/lmroman17-regular.otf></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb>
+Output written on instructions.pdf (3 pages, 88874 bytes).
 
-PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+PDF statistics: 84 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

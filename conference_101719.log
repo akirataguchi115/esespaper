@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.9.27)  27 SEP 2023 07:40
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.10.18)  18 OCT 2023 12:30
  restricted system commands enabled.
 **conference_101719.tex
 (./conference_101719.tex
@@ -249,6 +249,10 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-luatex.def
 File: l3backend-luatex.def 2022-01-12 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count280
@@ -257,108 +261,108 @@ File: l3backend-luatex.def 2022-01-12 L3 backend support: PDF output (LuaTeX)
 (./conference_101719.aux)
 \openout1 = conference_101719.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-0.
+1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 10.
+(Font)              using `TU/ptm/bx/n' instead on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/bx/it' instead on input line 10.
+(Font)              using `TU/ptm/bx/it' instead on input line 11.
 
 -- Lines per column: 56 (exact).
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -385,17 +389,39 @@ e
 ))
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 23.
+(Font)              using `TU/ptm/bx/n' instead on input line 24.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 27.
+(Font)              using `TU/ptm/bx/n' instead on input line 28.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/m/sc' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 31.
+(Font)              using `TU/ptm/m/n' instead on input line 32.
 
-(./conference_101719.bbl)
+(./conference_101719.bbl
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+\TU/ptm/bx/it/8 ware,'' $https://en.wikipedia.org/w/index.php?title=History_
+ []
+
+
+Underfull \hbox (badness 3989) in paragraph at lines 31--34
+\TU/ptm/bx/it/8 of_free_and_open-[]source_software&oldid=1162363354$, 2023,
+ []
+
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -411,7 +437,6 @@ Before submitting the final camera ready copy, remember to:
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-
 ]
 (./conference_101719.aux)
 
@@ -420,21 +445,21 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 4221 strings out of 477805
+ 4361 strings out of 477805
  100000,460012 words of node,token memory allocated
- 489 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 6 attribute, 53 glue_spec,
- 6 attribute_list, 1 write nodes
-   avail lists: 2:266,3:158,4:33,5:276,6:36,7:3680,9:235,10:8,11:279
- 24794 multiletter control sequences out of 65536+600000
- 24 fonts using 1918927 bytes
- 55i,8n,59p,256b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 498 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 54 glue_spec,
+ 7 attribute_list, 1 write nodes
+   avail lists: 2:316,3:248,4:45,5:621,6:45,7:10051,8:100,9:351,10:17,11:672
+ 24911 multiletter control sequences out of 65536+600000
+ 42 fonts using 3035415 bytes
+ 55i,8n,59p,746b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype
 /public/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmro
 man12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.o
 tf>
-Output written on conference_101719.pdf (1 page, 25019 bytes).
+Output written on conference_101719.pdf (1 page, 29875 bytes).
 
 PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream

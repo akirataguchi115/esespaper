@@ -21,12 +21,19 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{whatweknow}
-\BIBentryALTinterwordspacing
-K.~Crowston, K.~Wei, J.~Howison, and A.~Wiggins, ``Free/libre open-source
-  software development: What we know and what we do not know,'' \emph{ACM
-  Comput. Surv.}, vol.~44, no.~2, mar 2008. [Online]. Available:
-  \url{https://doi.org/10.1145/2089125.2089127}
-\BIBentrySTDinterwordspacing
+\bibitem{openvsclosed}
+S.~Raghunathan, A.~Prasad, B.~Mishra, and H.~Chang, ``Open source versus closed
+  source: software quality in monopoly and competitive markets,'' \emph{IEEE
+  Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans},
+  vol.~35, no.~6, 2005.
+
+\bibitem{declinewiki}
+{Wikipedia contributors}, ``History of free and open-source software,''
+  \url{https://en.wikipedia.org/w/index.php?title=History_of_free_and_open-source_software&oldid=1162363354},
+  2023, [Online; accessed 16-October-2023].
+
+\bibitem{stallman2002free}
+R.~Stallman, \emph{Free software, free society: Selected essays of Richard M.
+  Stallman}.\hskip 1em plus 0.5em minus 0.4em\relax lulu.com, 2002.
 
 \end{thebibliography}

@@ -1,5 +1,4 @@
 \documentclass[conference]{IEEEtran}
-\usepackage{cite}
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{algorithmic}
 \usepackage{graphicx}
@@ -30,16 +29,57 @@ Open-source software development is praised by an increasing amount of big techn
 \end{IEEEkeywords}
 
 \section{Introduction}
-Open-source software development has seen an increasing interest in the recent years \cite{openvsclosed}. Open source gives all kinds of different benefits ranging from enhanced security to labor force from outside the company. It's most known oppositor, closed-source software, comes with it's own benefits like increased revenue because nobody can create a competitive copy with the same source code. Free software, which came before open source, has seen declined interest in the last four decades \cite{declinewiki}. Although open-source software is often referred as "Free and Open Source Software", or FLOSS, Free software wants to stand out deliberately from open source \cite{stallman2002free}.
+Open-source software development has seen an increasing interest in the recent years \cite{openvsclosed}. Open source gives all kinds of different benefits ranging from enhanced security to extra labor force from outside the company. The benefits also include faster feedback loop between end-users and the developers, increase in agility and decrease in costs because every developer are able to make bug fixes, feature requests and many other types of contributions regardless of their employment relation to the company. Enhanced security is usually justified by Linus' law, formulated by Eric Raymond: "given enough eyeballs, all bugs are shallow" \cite{raymond1999cathedral}.
+Open-source also enables companies to maintain a closed-source, commercialized version of that same open-source software and sell it with some extra features to the customers, allowing the company to profit even more from the open-source approach. The list of benefits is long and growing on-par with the technology advancements. It is no wonder the interest in open-source software development has grown with the recent years.
 
-The paper structure follows the IMRAD structure. First we take a look at the methods we're going to use for defining open source and free software. These methods contain looking up definitions from Open Source Initiative, FSF and other more cited sources. Next in results we will go over some phenomena in detail that are directly bound to the differences of open source and free software. This phenoma include a new term "openwashing" and the demonization of free software. Lastly we will go through some next actions to take regarding open source versus free software.
+It's most known opposer, closed-source software, comes with it's own benefits like increased revenue because a competing company cannot create a competitive copy with the same source code. Closed-source, or proprietary software is argued, against Linus' law, to have a higher rate of bug uncoverage due to an in-depth review by fewer people as opposed to in open-source approach \cite{leblanc2002writing}. This is often referred to as a higher level of security in proprietary software.
+
+Free software is the least known opposer to both open source and proprietary software. It was first defined by the Free Software Foundation, or the FSF in 1986: "The word "free" in our name does not refer to price; it refers to freedom.  First, the freedom to copy a program and redistribute it to your neighbors, so that they can use it as well as you.  Second, the freedom to change a program, so that you can control it instead of it controlling you; for this, the source code must be made available to you." \cite{bull1}. The difference between proprietary software and free software might be more obvious than the difference between open source and free software. According to the second freedom in the definition of free software "the source code must be made available to you" open source doesn't always go down this path. Because open-source software can be made closed-source for commercial or some other purposes, the FSF does not see open source as a form of free software \cite{stallman2002free}.
+
+Free software has seen declined interest in the last four decades \cite{declinewiki}. Free software prohibits closed-source derivatives from the free software's source code. Because most companies profit from their commercial, closed-source versions, companies like Microsoft have taken actions to demonize free software as a whole throughout the years \cite{mundie}. Free Software Foundation's head figure, Richard Matthew Stallman is also being demonized with hate speech \cite{supportrms}. Aside from systematic demonization of free software it has also been criticized as failing on a practical, -ideological, economical and political level \cite{critfree}.
+
+The objective of this paper is to find out how the differences between open source and free software are perceived in the academic field. This consists of mostly academic papers in academic journals like IEEE, ACM or other journals found from Google Scholar. The objective of the paper also includes the possible reasoning behind the perception of the two aforementioned approaches to software development. Legal-heavy parts of the open source and free software definitions are outside the scope of this paper.
+
+Next the paper describes the methods used to find out the perceptions in the difference of open source and free software in the academic field. After describing the methods we take a look at the results. Finally the paper discusses the phenomena around the research scope. This includes nexts steps in concrete action, the new term "openwashing" and further research.
 
 \section{Methods}
+The papers are gathered from IEEE Xplore, ACM Digital Library and Google Scholar. The papers are picked based on the two factors: numbers cited and keyword accuracy. The first one is self explanatory but the latter needs explanation. The keyword accuracy is higher if the title or other contents of the paper contain the words "free", "libre" or "FOSS" for example. From the author's previous experience the keyword "open source" appears always with the a paper discussing free software. The paper will present discoveries of other synonyms for free software.  
+\subsection{Papers from IEEE}
+\begin{table}[htbp]
+	\caption{Papers from IEEE}
+	\begin{center}
+		\begin{tabular}{|c|c|c|c|}
+			\hline
+			\textbf{Title} & \textbf{Number of citations$^{*}$} & Keywords & Published \\
+			\hline
+			Free/Libre open-source software development: What we know and what we do not know & 269 & free, libre, open-source & 2008 \\
+			\hline
+			\multicolumn{2}{l}{$^{*}$Number of citation checked November 11$^{\text{th}}$ 2023.}
+		\end{tabular}
+		\label{tab1}
+	\end{center}
+\end{table}
+
+IEEE, ACM and Google Scholar 
+
+Difference (keltytwobits) 
+
+Open Source Definition
+
+Free software definition
 
 \section{Results}
+Academics do not know the difference. Why?
+Demonization of free software 
 
 \section{Discussion}
+Openwashing 
 
+GPL is not enough (sfc2023 gpl-rhel-analysis, ferguson 2006 gpl debug) 
+
+So what: better license, copyleft companies, increase active discussion, cc by 
+
+Further research 
 \bibliographystyle{IEEEtran}
 \bibliography{refs}{}
 

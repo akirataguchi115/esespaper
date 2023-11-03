@@ -61,9 +61,6 @@ INPUT /home/runner/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman
 INPUT /home/runner/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc
 INPUT /home/runner/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc
 INPUT /home/runner/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman17-regular.luc
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -134,8 +131,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.lua
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT ./conference_101719.bbl
-INPUT ./conference_101719.bbl
+OUTPUT conference_101719.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
@@ -158,6 +155,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-OUTPUT conference_101719.pdf
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /home/runner/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
+INPUT ./conference_101719.bbl
+INPUT ./conference_101719.bbl
 INPUT ./conference_101719.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb

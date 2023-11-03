@@ -27,13 +27,42 @@ S.~Raghunathan, A.~Prasad, B.~Mishra, and H.~Chang, ``Open source versus closed
   Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans},
   vol.~35, no.~6, 2005.
 
+\bibitem{raymond1999cathedral}
+E.~Raymond, ``The cathedral and the bazaar,'' \emph{Knowledge, Technology \&
+  Policy}, vol.~12, no.~3, pp. 23--49, 1999.
+
+\bibitem{leblanc2002writing}
+D.~LeBlanc and M.~Howard, \emph{Writing secure code}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Pearson Education, 2002.
+
+\bibitem{bull1}
+{Free Software Foundation}, ``{GNU's bulletin},''
+  \url{https://www.gnu.org/bulletins/bull1.txt}, 1986, [Online; accessed
+  24-October-2023].
+
+\bibitem{stallman2002free}
+R.~Stallman, \emph{Free software, free society: Selected essays of Richard M.
+  Stallman}.\hskip 1em plus 0.5em minus 0.4em\relax lulu.com, 2002.
+
 \bibitem{declinewiki}
 {Wikipedia contributors}, ``History of free and open-source software,''
   \url{https://en.wikipedia.org/w/index.php?title=History_of_free_and_open-source_software&oldid=1162363354},
   2023, [Online; accessed 16-October-2023].
 
-\bibitem{stallman2002free}
-R.~Stallman, \emph{Free software, free society: Selected essays of Richard M.
-  Stallman}.\hskip 1em plus 0.5em minus 0.4em\relax lulu.com, 2002.
+\bibitem{mundie}
+C.~Mundie, ``Speech transcript - craig mundie, the new york university stern
+  school of business,''
+  {\url{https://web.archive.org/web/20231018013917/https://news.microsoft.com/speeches/speech-transcript-craig-mundie-the-new-york-university-stern-school-of-business/}},
+  2001.
+
+\bibitem{supportrms}
+``Debunking false accusations against richard stallman,''
+  {\url{https://web.archive.org/web/20230624091156/https://stallmansupport.org/debunking-false-accusations-against-richard-stallman.html}},
+  2023.
+
+\bibitem{critfree}
+``A critique of free software,''
+  {\url{https://web.archive.org/web/20230325192431/https://www.paritybit.ca/a-critique-of-free-software}},
+  2021.
 
 \end{thebibliography}

@@ -75,4 +75,21 @@ C.~Mundie, ``Speech transcript - craig mundie, the new york university stern
   {url{https://web.archive.org/web/20231115235504/https://www.gnu.org/philosophy/free-sw.html/}},
   2023.
 
+\bibitem{greenwashing}
+\BIBentryALTinterwordspacing
+K.~Becker-Olsen and S.~Potucek, \emph{Greenwashing}.\hskip 1em plus 0.5em minus
+  0.4em\relax Berlin, Heidelberg: Springer Berlin Heidelberg, 2013, pp.
+  1318--1323. [Online]. Available:
+  \url{https://doi.org/10.1007/978-3-642-28036-8_104}
+\BIBentrySTDinterwordspacing
+
+\bibitem{rhelanalysis}
+``The open source definition,''
+  {url{https://web.archive.org/web/20231012114215/https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/}},
+  2023.
+
+\bibitem{gpldebug}
+D.~Ferguson, ``Syntax errors: Why version 3 of the gnu general public license
+  needs debugging,'' 2006.
+
 \end{thebibliography}

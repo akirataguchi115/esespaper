@@ -155,8 +155,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /home/runner/.texlive2021/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
 INPUT ./conference_101719.bbl
 INPUT ./conference_101719.bbl
 INPUT ./conference_101719.aux
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb

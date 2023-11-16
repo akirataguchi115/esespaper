@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.11.3)  3 NOV 2023 10:51
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.11.16)  16 NOV 2023 11:36
  restricted system commands enabled.
 **conference_101719.tex
 (./conference_101719.tex
@@ -394,10 +394,7 @@ LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
 LaTeX Font Warning: Font shape `TU/ptm/m/sc' undefined
 (Font)              using `TU/ptm/m/n' instead on input line 31.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
+[1
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -414,27 +411,13 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 53.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 53.
-
-
-Overfull \hbox (326.64546pt too wide) in paragraph at lines 51--60
+Overfull \hbox (97.20009pt too wide) in paragraph at lines 51--64
  [] 
  []
 
 (./conference_101719.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 48--51
+Underfull \hbox (badness 7796) in paragraph at lines 48--51
 \TU/ptm/m/sc/8 ware,'' $https://en.wikipedia.org/w/index.php?title=History_
- []
-
-
-Underfull \hbox (badness 3989) in paragraph at lines 48--51
-\TU/ptm/m/sc/8 of_free_and_open-[]source_software&oldid=1162363354$, 2023,
  []
 
 
@@ -443,20 +426,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--57
  []
 
 
-Overfull \hbox (69.29211pt too wide) in paragraph at lines 53--57
+Overfull \hbox (73.54012pt too wide) in paragraph at lines 53--57
 \TU/ptm/m/sc/8 speech-[]transcript-[]craig-[]mundie-[]the-[]new-[]york-[]univers
 ity-[]stern-[]school-[]of-[]business/$,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--62
-\TU/ptm/m/sc/8 web.archive.org/web/20230624091156/https://stallmansupport.
+[]\TU/ptm/m/sc/8 ``De-bunk-ing false ac-cu-sa-tions against richard
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--62
-\TU/ptm/m/sc/8 org/debunking-[]false-[]accusations-[]against-[]richard-[]stallma
-n.html$,
+\TU/ptm/m/sc/8 stall-man,'' $https://web.archive.org/web/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+\TU/ptm/m/sc/8 20230624091156/https://stallmansupport.org/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+\TU/ptm/m/sc/8 debunking-[]false-[]accusations-[]against-[]richard-[]stallman.ht
+ml$,
  []
 
 
@@ -467,6 +460,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--67
 
 Underfull \hbox (badness 10000) in paragraph at lines 64--67
 \TU/ptm/m/sc/8 org/web/20230325192431/https://www.paritybit.ca/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+[]\TU/ptm/m/sc/8 ``The open source def-i-ni-tion,'' url-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+\TU/ptm/m/sc/8 https://web.archive.org/web/20231114155403/https://open-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
+[]\TU/ptm/m/sc/8 ``The open source def-i-ni-tion,'' url-
+ []
+
+
+Overfull \hbox (37.24004pt too wide) in paragraph at lines 74--77
+\TU/ptm/m/sc/8 https://web.archive.org/web/20231115235504/https://www.gnu.org/ph
+i-
  []
 
 )
@@ -488,25 +502,24 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 4262 strings out of 477805
- 156265,460012 words of node,token memory allocated
+ 4263 strings out of 477805
+ 156270,460012 words of node,token memory allocated
  498 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 54 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 2:516,3:338,4:56,5:1118,6:54,7:17652,8:159,9:493,10:18,11:1258
- 24821 multiletter control sequences out of 65536+600000
- 43 fonts using 3167423 bytes
- 55i,13n,59p,1052b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texm
-f/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype
-/public/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmrom
-an10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.ot
-f></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.otf></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on conference_101719.pdf (2 pages, 46864 bytes).
+   avail lists: 2:566,3:354,4:64,5:1106,6:46,7:17687,8:159,9:488,10:21,11:1279
+ 24822 multiletter control sequences out of 65536+600000
+ 42 fonts using 3035735 bytes
+ 55i,8n,59p,1050b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texm
+f/fonts/opentype/public/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype
+/public/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmro
+man12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.o
+tf>
+Output written on conference_101719.pdf (2 pages, 39292 bytes).
 
-PDF statistics: 57 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+PDF statistics: 46 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

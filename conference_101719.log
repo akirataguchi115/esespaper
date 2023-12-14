@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.11.21)  21 NOV 2023 11:19
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2023.12.14)  14 DEC 2023 10:31
  restricted system commands enabled.
 **conference_101719.tex
 (./conference_101719.tex
@@ -415,81 +415,76 @@ Overfull \hbox (32.38408pt too wide) in paragraph at lines 51--65
  [] 
  []
 
-(./conference_101719.bbl
-Underfull \hbox (badness 7796) in paragraph at lines 48--51
-\TU/ptm/m/sc/8 ware,'' $https://en.wikipedia.org/w/index.php?title=History_
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
+(./conference_101719.bbl [2]
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
 \TU/ptm/m/sc/8 web/20231018013917/https://news.microsoft.com/speeches/
  []
 
 
-Overfull \hbox (73.54012pt too wide) in paragraph at lines 53--57
+Overfull \hbox (73.54012pt too wide) in paragraph at lines 52--56
 \TU/ptm/m/sc/8 speech-[]transcript-[]craig-[]mundie-[]the-[]new-[]york-[]univers
 ity-[]stern-[]school-[]of-[]business/$,
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
 []\TU/ptm/m/sc/8 ``De-bunk-ing false ac-cu-sa-tions against richard
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
 \TU/ptm/m/sc/8 stall-man,'' $https://web.archive.org/web/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
 \TU/ptm/m/sc/8 20230624091156/https://stallmansupport.org/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
 \TU/ptm/m/sc/8 debunking-[]false-[]accusations-[]against-[]richard-[]stallman.ht
 ml$,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--67
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
 []\TU/ptm/m/sc/8 ``A cri-tique of free soft-ware,'' $https://web.archive.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--67
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
 \TU/ptm/m/sc/8 org/web/20230325192431/https://www.paritybit.ca/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
 []\TU/ptm/m/sc/8 ``The open source def-i-ni-tion,'' url-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
 \TU/ptm/m/sc/8 https://web.archive.org/web/20231114155403/https://open-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--77
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 []\TU/ptm/m/sc/8 ``The open source def-i-ni-tion,'' url-
  []
 
 
-Overfull \hbox (37.24004pt too wide) in paragraph at lines 74--77
+Overfull \hbox (37.24004pt too wide) in paragraph at lines 73--76
 \TU/ptm/m/sc/8 https://web.archive.org/web/20231115235504/https://www.gnu.org/ph
 i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
 []\TU/ptm/m/sc/8 ``The open source def-i-ni-tion,'' url-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--90
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
 \TU/ptm/m/sc/8 https://web.archive.org/web/20231012114215/https://sf-
  []
 
@@ -519,16 +514,17 @@ Here is how much of LuaTeX's memory you used:
  498 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 7 attribute, 54 glue_spec,
  7 attribute_list, 1 write nodes
-   avail lists: 2:525,3:303,4:46,5:1103,6:45,7:17510,8:159,9:488,10:21,11:1264
+   avail lists: 1:1,2:418,3:293,4:68,5:1094,6:34,7:17261,8:159,9:482,10:19,11:12
+40
  24825 multiletter control sequences out of 65536+600000
  42 fonts using 3035735 bytes
- 55i,8n,59p,1396b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,8n,59p,1382b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype
 /public/lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmro
 man12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman17-regular.o
 tf>
-Output written on conference_101719.pdf (3 pages, 43059 bytes).
+Output written on conference_101719.pdf (3 pages, 44523 bytes).
 
 PDF statistics: 49 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
